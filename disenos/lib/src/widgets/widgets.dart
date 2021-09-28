@@ -1,0 +1,11 @@
+export 'package:disenos/src/widgets/background_widget.dart';
+export 'package:disenos/src/widgets/bottom_navigation_widget.dart';
+export 'package:disenos/src/widgets/cambio_pag_widget.dart';
+export 'package:disenos/src/widgets/icons_widget.dart';
+export 'package:disenos/src/widgets/main_scroll_widget.dart';
+export 'package:disenos/src/widgets/landscape_widget.dart';
+export 'package:disenos/src/widgets/location_widget.dart';
+export 'package:disenos/src/widgets/table_widget.dart';
+export 'package:disenos/src/widgets/text_widget.dart';
+export 'package:disenos/src/widgets/title_widget.dart';
+export 'package:disenos/src/widgets/page02_main_scroll.dart';
